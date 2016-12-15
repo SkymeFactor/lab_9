@@ -1,0 +1,21 @@
+﻿  Source.cpp
+c:\users\skyme\documents\visual studio 2015\projects\consoleapplication1\consoleapplication1\bmptoarr.h(12): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note:  см. объявление "fopen"
+c:\users\skyme\documents\visual studio 2015\projects\consoleapplication1\consoleapplication1\source.cpp(35): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\skyme\documents\visual studio 2015\projects\consoleapplication1\consoleapplication1\source.cpp(96): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\skyme\documents\visual studio 2015\projects\consoleapplication1\consoleapplication1\source.cpp(106): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\skyme\documents\visual studio 2015\projects\consoleapplication1\consoleapplication1\source.cpp(112): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\skyme\documents\visual studio 2015\projects\consoleapplication1\consoleapplication1\source.cpp(159): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+c:\users\skyme\documents\visual studio 2015\projects\consoleapplication1\consoleapplication1\source.cpp(195): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\skyme\documents\visual studio 2015\projects\consoleapplication1\consoleapplication1\source.cpp(202): warning C4800: int: принудительно задано логическое значение "true" или "false" (предупреждение о производительности)
+c:\users\skyme\documents\visual studio 2015\projects\consoleapplication1\consoleapplication1\source.cpp(213): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\skyme\documents\visual studio 2015\projects\consoleapplication1\consoleapplication1\source.cpp(219): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\skyme\documents\visual studio 2015\projects\consoleapplication1\consoleapplication1\source.cpp(221): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\skyme\documents\visual studio 2015\projects\consoleapplication1\consoleapplication1\source.cpp(230): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\skyme\documents\visual studio 2015\projects\consoleapplication1\consoleapplication1\source.cpp(249): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\skyme\documents\visual studio 2015\projects\consoleapplication1\consoleapplication1\source.cpp(257): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\skyme\documents\visual studio 2015\projects\consoleapplication1\consoleapplication1\source.cpp(266): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\skyme\documents\visual studio 2015\projects\consoleapplication1\consoleapplication1\source.cpp(153): warning C4996: 'freopen': This function or variable may be unsafe. Consider using freopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(240): note:  см. объявление "freopen"
+  ConsoleApplication1.vcxproj -> C:\Users\Skyme\documents\visual studio 2015\Projects\ConsoleApplication1\Debug\ConsoleApplication1.exe
+  ConsoleApplication1.vcxproj -> C:\Users\Skyme\documents\visual studio 2015\Projects\ConsoleApplication1\Debug\ConsoleApplication1.pdb (Full PDB)
